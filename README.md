@@ -6,4 +6,4 @@ Projet de test GIT
 Yo !
 test
 
-<modified>
+modified
